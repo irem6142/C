@@ -20,7 +20,7 @@ int main()
 	{
 		printf("HARSHAD (NIVEN)  sayisidir.");
 	}
-	else  if(a%t!=0)
+	else 
 	{
 		printf("HARSHAD (NIVEN)  sayisi degildir.");
 	}
