@@ -1,2 +1,2 @@
-# C-ile-ilgili-Ornekler
+# C
  C diline yeni başlayanlar için örnekler.
